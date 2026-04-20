@@ -15,7 +15,7 @@
 
 ## What Is This
 
-Phish played a residency at the Sphere in Las Vegas in 2024. During the show, the band's drummer Jon Fishman played a segment where a Space Invaders-style game called **Tube Invaders** appeared on the massive spherical LED screen — complete with pixelated aliens, a desert road horizon, and the band's faces on the game over screen.
+Phish is played another residency at the Sphere in Las Vegas that I again didnt attend. During the show, a Space Invaders-style game called **Tube Invaders** appeared on the massive spherical LED screen — complete with pixelated aliens, a desert road horizon, and the band's faces on the game over screen. 
 
 This is a fully playable browser adaptation of that concept, built as a love letter to 30 years of Phish.
 
@@ -110,13 +110,13 @@ This is a fully playable browser adaptation of that concept, built as a love let
 **Created by Chad Smith**
 Instagram: [@chadspix](https://instagram.com/chadspix)
 
-Inspired by the original **Tube Invaders** visual concept created for **Phish at the Sphere**, Las Vegas 2024.
+Inspired by the  **Tube Invaders** visual concept created for **Phish at the Sphere**, Las Vegas 2026.
 
 To whoever designed the original Sphere Tube Invaders artwork — you are brilliant. Thank you for the inspiration. 🍩
 
-**First show:** Halloween 1995 — Rosemont Horizon, Chicago, IL
+**My First show:** Halloween 1995 — Rosemont Horizon, Chicago, IL
 Phish performed The Who's *Quadrophenia* in full. Fishman wore a hot dog suit.
-
+Bluty 's dad Herb brought us to the show. The rest is history. 
 ---
 
 ## Sharing
