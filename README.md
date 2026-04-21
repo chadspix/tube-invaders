@@ -7,15 +7,13 @@
 
 ## Play It
 
-**Just open `tube-invaders.html` in any browser.** No install, no server, no dependencies. One file. Works on iPhone, Android, desktop — everything.
-
-> Host it on GitHub Pages and share the URL directly with anyone.
+**Just open `index.html` in any browser.** No install, no server, no dependencies. One file. Works on iPhone, Android, desktop — everything.
 
 ---
 
 ## What Is This
 
-Phish is played another residency at the Sphere in Las Vegas that I again didnt attend. During the show, a Space Invaders-style game called **Tube Invaders** appeared on the massive spherical LED screen — complete with pixelated aliens, a desert road horizon, and the band's faces on the game over screen. 
+Phish is played another residency at the Sphere in Las Vegas that I again didnt attend. During the show, a Space Invaders-style game called **Tube Invaders** appeared on the massive Sphere LED screen — complete with pixelated aliens, a desert road horizon, and the band's faces on the game over screen. 
 
 This is a fully playable browser adaptation of that concept, built as a love letter to 30 years of Phish.
 
@@ -98,9 +96,9 @@ This is a fully playable browser adaptation of that concept, built as a love let
 
 - **Pure HTML/CSS/JS** — single file, zero dependencies, zero build step
 - **Web Audio API** — all music synthesized in-browser (square wave melody + triangle bass + kick/snare drums)
-- **Canvas 2D** — all rendering, pixel art sprites, bezier path fish boss
+- **Canvas 2D** — all rendering, pixel art sprites, bezier path fish phish  boss
 - **DeviceOrientation API** — tilt controls with iOS permission handling
-- **Web Share API** — native share sheet on mobile
+- **Web Share API** — native share sheet on mobilei
 - **Vibration API** — haptic pulse on kick drum beats
 
 ---
@@ -112,11 +110,11 @@ Instagram: [@chadspix](https://instagram.com/chadspix)
 
 Inspired by the  **Tube Invaders** visual concept created for **Phish at the Sphere**, Las Vegas 2026.
 
-To whoever designed the original Sphere Tube Invaders artwork — you are brilliant. Thank you for the inspiration. 🍩
+To whomever designed the original Sphere Tube Invaders artwork — you are brilliant. Thank you for the inspiration. 🍩
 
 **My First show:** Halloween 1995 — Rosemont Horizon, Chicago, IL
 Phish performed The Who's *Quadrophenia* in full. Fishman wore a hot dog suit.
-Bluty 's dad Herb brought us to the show. The rest is history. 
+Bluty 's dad Herb brought us to the show. The The rest is history. Mike Gordon used to be my cousin. Id love to go to see phish rhis weekend if anyone woukd love to gift a package 😊
 ---
 
 ## Sharing
